@@ -39,6 +39,7 @@ Contributors
 David DUFRESNE <david.dufresne@savoirfairelinux.com>
 Jordi RIERA <jordi.riera@savoirfairelinux.com>
 Bruno JOLIVEAU <bruno.joliveau@savoirfairelinux.com>
+Aitor Bouzas <aitor.bouzas@adaptivecity.com>
 
 Maintainer
 ----------
